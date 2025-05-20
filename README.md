@@ -1,6 +1,6 @@
 # MAD1-Project-IITM
 
-<!-- Library Management System
+Library Management System
 
 Step 1. Before running the project, first of all create the virtual environment in folder section.
 
@@ -24,4 +24,4 @@ Step 6. Now run the local server
 
 command :- flask run
 
- -->
+
