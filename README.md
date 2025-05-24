@@ -1,7 +1,9 @@
 # MAD1-Project-IITM
 
-Library Management System
+<br>
+<h2>Library Management System</h2>
 
+<br>
 Step 1. Before running the project, first of all create the virtual environment in folder section.
 
 Command :- python -m venv venv
